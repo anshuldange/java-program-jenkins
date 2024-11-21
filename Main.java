@@ -9,6 +9,9 @@ public class Main{
         System.out.println("hello");
         System.out.println("Added one more file");
         System.out.println("checking for automatic operations");
+
+        Student s = new Student();
+        s.sayHello();
     }
 
 }
